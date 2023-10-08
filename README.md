@@ -23,3 +23,7 @@ Once all setup, you can `npm run start` and in a different terminal `npm run and
 - Inline Parameters for VSCode
 - Prettier - Code formatter
 - Pretty TypeScript Errors
+
+## Goal for this project
+
+![](./docs/design.png)
