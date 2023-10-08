@@ -64,3 +64,7 @@ yarn-error.log
 
 # jest
 coverage/
+
+# ts
+dist/
+tsconfig.tsbuildinfo
