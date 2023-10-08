@@ -8,4 +8,5 @@ module.exports = {
     'no-shadow': 'off',
     'no-unlimited-disable': 'off',
   },
+  ignorePatterns: ['dist'],
 };
