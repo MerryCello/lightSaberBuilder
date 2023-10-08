@@ -8,7 +8,7 @@
 
 ### Windows
 
-1. Install [node with nvm](https://github.com/coreybutler/nvm-windows#nvm-for-windows), and install
+1. Install [node with nvm](https://github.com/coreybutler/nvm-windows#nvm-for-windows), and install latest node version
 1. Setup [Android dev env](https://reactnative.dev/docs/environment-setup?guide=native&platform=android&os=windows)
 
 ## Run it
